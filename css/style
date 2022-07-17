@@ -1,0 +1,82 @@
+.background{
+	background-image: url(https://attend.ieee.org/anzscon-2022/wp-content/uploads/sites/430/shutterstock_233587660_sm.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100vh;
+
+}
+hr.hr{
+	border: none;
+	background-color: #095485;
+	height: 20px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+.img-response{
+	margin: left 20%;;
+}
+.body{
+	background-color: #dbe9ee;
+}
+.overlay{
+	width: 50%;
+	height: 100vh;
+	background-color: #09538593;
+}
+.inner-content{
+	padding-top: 20%;
+	padding-left: 5%;
+	padding-right: 10%;
+	line-height: 20%;
+	font-family: Arial, Helvetica, sans-serif;
+
+	font-size: large;
+	color: #ffff;
+
+}
+#body-img{
+	align-items: center;
+}
+header#header {
+	background-image: url(https://attend.ieee.org/anzscon-2022/wp-content/themes/ieee-dci/images/style-c/header-bkg-blue.png);
+	background-repeat: repeat-x;
+	background-position: 100% center;
+	background-color: #ffff;
+	
+}
+
+.container{
+	position: relative;
+	
+}
+h1{
+	color:rgb(32, 168, 209);
+}
+#customers {
+	font-family: Arial, Helvetica, sans-serif;
+	border-collapse: collapse;
+	width: 100%;
+	font-size: medium;
+  }
+  
+  #customers td, #customers th {
+	border: 1px solid #ddd;
+	padding: 8px;
+  }
+  
+  #customers tr:nth-child(even){background-color: #f2f2f2;}
+  
+  #customers tr:hover {background-color: #ddd;}
+  
+  #customers th {
+	padding-top: 12px;
+	padding-bottom: 12px;
+	text-align: left;
+	background-color: #2abdde;
+	color: white;
+  }
+  #customers ul{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: medium;
+	
+  }
